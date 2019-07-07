@@ -1,0 +1,5 @@
+# Sample jd program
+
+hello = 'Hello, World!'
+
+pf(hello)
