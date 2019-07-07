@@ -1,4 +1,4 @@
 # jd-Programming
 A custom programming language written with a python compiler.
-Functions:
+<b>Functions:</b>
   
