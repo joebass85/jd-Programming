@@ -8,6 +8,6 @@ A custom programming language written with a Python interpreter.
 <h2>Running</h2>
 <p>Depends on Python 3.X and Python modules os, sys, re.</p>
 <p>Download and run in commandline/termnal with the following syntax: jdc <em>foo</em>.jd</p>
-<p></p>
+<p> </p>
 <p>For Windows users, use the jdc.py file as the interpreter.</p>
 <p>For users of Unix based systems, you can use either the jdc,py file or just the jdc file.</p>
