@@ -1,5 +1,5 @@
 # jd-Programming
-A custom programming language written with a python compiler.
+A custom programming language written with a Python interpreter.
 <h2>Functions:</h2>
  <p>comments with <em>#</em></p>
  <p>variable assignments <b>(N.B. strings must begin and end with single quotes)</b></p>
@@ -9,4 +9,5 @@ A custom programming language written with a python compiler.
 <p>Depends on Python 3.X and Python modules os, sys, re.</p>
 <p>Download and run in commandline/termnal with the following syntax: gjd <em>foo</em>.jd</p>
 <p></p>
-<h1>CURRENTLY ONLY WORKS ON UNIX SYSTEMS</h1>
+<p>For Windows users, use the jdc.py file as the interpreter.</p>
+<p>For users of Unix based systems, you can use either the jdc,py file or just the jdc file.</p>
